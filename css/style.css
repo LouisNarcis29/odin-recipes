@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(223, 207, 207);
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+  text-align: center;
+  color: rgb(29, 31, 29);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+.subtitle {
+  text-align: center;
+  color: rgb(29, 31, 29);
+}
+
+div {
+    text-align: center;
+}
+
+a {
+  color: rgb(19, 141, 25);
+}
